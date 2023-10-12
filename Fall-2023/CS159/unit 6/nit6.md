@@ -46,3 +46,5 @@
 * multiway
   1. if else if else
   2. switch
+
+### Switch Statement
