@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mray3/OneDrive/Desktop/Purdue/Fall-2023/CS159/lecture 1",
-      "program": "c:/Users/mray3/OneDrive/Desktop/Purdue/Fall-2023/CS159/lecture 1/build/Debug/outDebug",
+      "cwd": "c:/Users/mray3/OneDrive/Desktop/Purdue/Fall-2023/CS159",
+      "program": "c:/Users/mray3/OneDrive/Desktop/Purdue/Fall-2023/CS159/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
